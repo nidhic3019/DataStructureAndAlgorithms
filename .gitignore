@@ -16,6 +16,7 @@ _book
 *.pdf
 
 # Intellij
+*.idea
 .idea/libraries/*.xml
 *.iml
 *.iws
