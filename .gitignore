@@ -14,3 +14,16 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Intellij
+.idea/libraries/*.xml
+*.iml
+*.iws
+.idea/*
+
+.idea
+
+target/
+
+
+/target/**
