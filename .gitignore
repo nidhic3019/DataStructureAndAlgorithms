@@ -21,10 +21,6 @@ _book
 *.iml
 *.iws
 .idea/*
-
 .idea
-
 target/
-
-
 /target/**
